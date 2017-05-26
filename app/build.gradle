@@ -179,7 +179,7 @@ dependencies {
     }
     compile "com.f2prateek.dart:dart:${libraryVersion.dart}"
     compile "com.f2prateek.dart:henson:${libraryVersion.dart}"
-    compile 'com.github.mrmike:Ok2Curl:0.2.5'
+    compile 'com.github.mrmike:Ok2Curl:0.3.1'
     compile "com.github.Raizlabs.DBFlow:dbflow-core:${libraryVersion.dbFlow}"
     compile "com.github.Raizlabs.DBFlow:dbflow:${libraryVersion.dbFlow}"
     compile 'com.github.square.picasso:picasso:8c16e8564e'
